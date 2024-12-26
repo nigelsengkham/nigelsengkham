@@ -3,9 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [PISCES SOC Analyst, IT 360/450 Classes (Spring 2023 & Fall 2023) Green River College](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Home SIEM Lab Project](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>~Certifications</h2>
+<h2>📄Certifications</h2>
 
+- [UDEMY Wireshark](https://udemy-certificate.s3.amazonaws.com/image/UC-18405f2a-8eef-43ae-af88-c63ceb906574.jpg?v=1701315811000)
 
 <h2> 🤳 Connect with me:</h2>
 
