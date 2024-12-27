@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [PISCES SOC Analyst, IT 360/450 Classes (Spring 2023 & Fall 2023) Green River College](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Home SIEM Lab Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [PISCES SOC Analyst, IT 360/450 Classes (Spring 2023 & Fall 2023) Green River College](https://github.com/nigelsengkham/PISCESSOCAnalystStudentProject)
+  
 
 <h2>📄Certifications</h2>
 
